@@ -12,3 +12,6 @@
 
 4. Bring down application by command
 	- `docker-compose down `or `ctrl + c`
+
+
+![image](https://github.com/Ishan4u/docker-mysql/assets/111623376/cd75874f-8680-4bfd-bc6e-23445244de68)
